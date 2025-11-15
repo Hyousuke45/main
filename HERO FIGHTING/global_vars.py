@@ -14,7 +14,7 @@ screen = pygame.display.set_mode((width, height))
 # display_size = pygame.display.get_desktop_sizes()
 # width,height = display_size[0][0]-50, display_size[0][1]-50
 # screen = pygame.display.set_mode((width, height), pygame.RESIZABLE)
-
+no_swap = True
 # Colors
 white = 'White' #reducing
 red = 'Red' #damage/hp
