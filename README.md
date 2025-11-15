@@ -1,4 +1,7 @@
-# Hello!
+Make sure you opened the correct folder.
 
-This is my main repository!
-This repo contains the source code of my game made in Python using PyGame.
+Open gameloop.py > Run the file
+
+enjoy!
+
+Kim BIOT
